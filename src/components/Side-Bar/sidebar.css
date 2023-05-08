@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin:0;
+  }
+  .sidebar{
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    text-align: center;
+    padding-top: 30px;
+    
+  }
+  
+  .sidebar ul{
+    color: white;
+    text-align: center;
+    
+  }
+  
+  .sidebar li{
+    padding: 15px 10px;
+    cursor: pointer;
+  }
