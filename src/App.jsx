@@ -4,7 +4,8 @@
 
 import Login from './components/Auth/Login'
 import './App.css'
-//import SingUp from './components/Auth/Register'
+import SingUp from './components/Auth/Register'
+
 
 function App() {
  
@@ -12,7 +13,7 @@ function App() {
   return (
     <>
     <Login/>
-
+    <SingUp/>
     </>
   )
 }
