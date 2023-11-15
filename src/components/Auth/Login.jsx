@@ -30,10 +30,10 @@ function Login() {
 
             <div className="social">
                 <span>Sing in with:</span><br />
-            <button className="Goggle"><i class="fa-brands fa-google fa-xl"></i></button>
-            <button className="facebook"><i class="fa-brands fa-facebook fa-xl"></i></button>
+            <button className="Goggle"><i className="fa-brands fa-google fa-xl"></i></button>
+            <button className="facebook"><i className="fa-brands fa-facebook fa-xl"></i></button>
             </div>
-              <a href="">sing up <i class="fa-regular fa-right-to-line" style={{color:"#0056d6"}}></i></a>
+              <a href="">sing up <i className="fa-regular fa-right-to-line" style={{color:"#0056d6"}}></i></a>
             
             </div>
            
